@@ -6,5 +6,5 @@ I worked primarily on collapsible content sections for the website to organize t
 
 The main take aways for me are:
 - Small changes like making content organized can dramatically improve the experience of the website.
-- A few lines of good javascript code can go along way in making site interactive
 - In my case, adding a collapsible content section reduced the amount of scrolling needed on the site by a lot.
+- However, I could have added some interactiveness like icon and animation to indicate to user that the grey tabs are collapsible sections.
